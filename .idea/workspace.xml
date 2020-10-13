@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a92916c-542d-4058-baea-a235f252d6ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/aalab6/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/aalab6/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab_7" />
   </component>
   <component name="RunManager" selected="Android Instrumented Tests.ExampleInstrumentedT...">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -163,21 +163,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1318" height="523" key="GridCell.Tab.0.bottom" timestamp="1602556886414">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state x="466" y="127" width="428" height="481" key="FileChooserDialogImpl" timestamp="1602561294166">
+      <screen x="0" y="0" width="1366" height="737" />
     </state>
+    <state x="466" y="127" width="428" height="481" key="FileChooserDialogImpl/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1602561294166" />
+    <state width="1318" height="523" key="GridCell.Tab.0.bottom" timestamp="1602561297414">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1318" height="523" key="GridCell.Tab.0.bottom/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1602561297414" />
     <state width="1318" height="523" key="GridCell.Tab.0.bottom/0.0.1366.737/1366.0.1366.768@1366.0.1366.768" timestamp="1602556886414" />
-    <state width="1318" height="523" key="GridCell.Tab.0.center" timestamp="1602556886414">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="1318" height="523" key="GridCell.Tab.0.center" timestamp="1602561297333">
+      <screen x="0" y="0" width="1366" height="737" />
     </state>
+    <state width="1318" height="523" key="GridCell.Tab.0.center/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1602561297333" />
     <state width="1318" height="523" key="GridCell.Tab.0.center/0.0.1366.737/1366.0.1366.768@1366.0.1366.768" timestamp="1602556886414" />
-    <state width="1318" height="523" key="GridCell.Tab.0.left" timestamp="1602556886414">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="1318" height="523" key="GridCell.Tab.0.left" timestamp="1602561297332">
+      <screen x="0" y="0" width="1366" height="737" />
     </state>
+    <state width="1318" height="523" key="GridCell.Tab.0.left/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1602561297332" />
     <state width="1318" height="523" key="GridCell.Tab.0.left/0.0.1366.737/1366.0.1366.768@1366.0.1366.768" timestamp="1602556886414" />
-    <state width="1318" height="523" key="GridCell.Tab.0.right" timestamp="1602556886414">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="1318" height="523" key="GridCell.Tab.0.right" timestamp="1602561297333">
+      <screen x="0" y="0" width="1366" height="737" />
     </state>
+    <state width="1318" height="523" key="GridCell.Tab.0.right/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1602561297333" />
     <state width="1318" height="523" key="GridCell.Tab.0.right/0.0.1366.737/1366.0.1366.768@1366.0.1366.768" timestamp="1602556886414" />
   </component>
 </project>
