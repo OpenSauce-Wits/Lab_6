@@ -19,11 +19,11 @@ public class MainActivityTest {
     public ActivityTestRule<MainActivity> mainActivityActivityTestRule = new ActivityTestRule<>(MainActivity.class);
 
     String carsList = "[{\"CAR_ID\":\"1\",\"OWNER\":\"TRAVIS\",\"AGE\":\"3\",\"BRAND\":\"SUZUKI\",\"NUMBER\":\"ZXY456GP\"},{\"CAR_ID\":\"2\",\"OWNER\":\"SCOTT\",\"AGE\":\"5\",\"BRAND\":\"SUBARU\",\"NUMBER\":\"XT54CCGP\"},{\"CAR_ID\":\"3\",\"OWNER\":\"ASTRID\",\"AGE\":\"5\",\"BRAND\":\"SMART\",\"NUMBER\":\"CTB492GP\"},{\"CAR_ID\":\"4\",\"OWNER\":\"WERLD\",\"AGE\":\"3\",\"BRAND\":\"SATURN\",\"NUMBER\":\"ZY54BTGP\"}]";
-    @Test
-    public void noInternetPermission(){
-        ViewInteraction Display = onView(withId(R.id.textViewOut));
-        Display.check(matches(withText("Before")));
-    }
+//     @Test
+//     public void noInternetPermission(){
+//         ViewInteraction Display = onView(withId(R.id.textViewOut));
+//         Display.check(matches(withText("Before")));
+//     }
 
     @Rule
     public GrantPermissionRule grantPermissionRule = GrantPermissionRule.grant(Manifest.permission.INTERNET);
