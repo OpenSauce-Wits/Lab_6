@@ -1,4 +1,5 @@
 # Lab 6
 Program meant to test the students' ability to connect to a server, request data, and display data on screen. 
-[![Build Status](https://app.bitrise.io/app/d9751d71a355f09f/status.svg?token=t0U9wHAClZdK8TVOSDYoEw)](https://app.bitrise.io/app/d9751d71a355f09f)
-[![Coverage Status](https://coveralls.io/repos/github/OpenSauce-Wits/Lab_5/badge.svg?branch=master)](https://coveralls.io/github/OpenSauce-Wits/Lab_5?branch=master)
+
+[![Build Status](https://app.bitrise.io/app/f661d754bce0b323/status.svg?token=1dIJily9B0FWL91zIT_xcA&branch=master)](https://app.bitrise.io/app/f661d754bce0b323)
+[![Coverage Status](https://coveralls.io/repos/github/OpenSauce-Wits/Lab_6/badge.svg?branch=master)](https://coveralls.io/github/OpenSauce-Wits/Lab_6?branch=master)
