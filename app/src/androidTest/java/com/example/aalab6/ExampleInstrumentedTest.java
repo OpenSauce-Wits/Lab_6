@@ -26,7 +26,7 @@ import static androidx.test.espresso.matcher.ViewMatchers.withText;
 public class ExampleInstrumentedTest {
     @Rule
     public ActivityTestRule<MainActivity> mainActivityActivityTestRule = new ActivityTestRule<>(MainActivity.class);
-    
+
     @Test
     public void noInternetPermission(){
         ViewInteraction Display = onView(withId(R.id.textViewOut));

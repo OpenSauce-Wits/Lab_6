@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5a92916c-542d-4058-baea-a235f252d6ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/aalab6/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/aalab6/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
