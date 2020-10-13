@@ -13,6 +13,7 @@ import static androidx.test.espresso.Espresso.onView;
 import static androidx.test.espresso.assertion.ViewAssertions.matches;
 import static androidx.test.espresso.matcher.ViewMatchers.withId;
 import static androidx.test.espresso.matcher.ViewMatchers.withText;
+import static org.hamcrest.CoreMatchers.containsString;
 
 public class MainActivityTest {
     @Rule
@@ -22,14 +23,15 @@ public class MainActivityTest {
 //     @Test
 //     public void noInternetPermission(){
 //         ViewInteraction Display = onView(withId(R.id.textViewOut));
-//         Display.check(matches(withText("Before")));
+//         Display.check(matches(withText(containsString("Before"))));
 //     }
 
     @Rule
     public GrantPermissionRule grantPermissionRule = GrantPermissionRule.grant(Manifest.permission.INTERNET);
     @Test
-    public void outputTest(){
+    public void outputTest() throws InterruptedException {
+        Thread.sleep(1500);
         ViewInteraction Display = onView(withId(R.id.textViewOut));
-        Display.check(matches(withText(carsList)));
+        Display.check(matches(withText(containsString(carsList))));
     }
 }
